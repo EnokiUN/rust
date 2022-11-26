@@ -5,6 +5,9 @@ standard library, and documentation.
 
 [Rust]: https://www.rust-lang.org
 
+> **Warning**
+> Uwu may/may have not invaded this fork of rust, you have been warned.
+
 **Note: this README is for _users_ rather than _contributors_.
 If you wish to _contribute_ to the compiler, you should read the
 [Getting Started][gettingstarted] section of the rustc-dev-guide instead.
